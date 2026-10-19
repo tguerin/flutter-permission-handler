@@ -1,3 +1,7 @@
+## 0.2.2+1
+
+* No longer starts location tracking at plugin registration, which made Windows ask for location consent on app launch.
+
 ## 0.2.2
 
 * Added support for the new Android 17 permission `ACCESS_LOCAL_NETWORK`
